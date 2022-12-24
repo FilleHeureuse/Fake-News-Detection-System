@@ -2,9 +2,9 @@
 ### Project Summary
 
 ### Project Title
-*Fake News Detection System* 
+####*Fake News Detection System* 
 ### Customer 
-*ABC Company*
+####*ABC Company*
 ### Project Objectives:
 1. To create an Artificial Intelligent (AI) system that can detect the veracity of news.
 2. To develop a system that can differentiate between “Real” news and “Fake” news.
