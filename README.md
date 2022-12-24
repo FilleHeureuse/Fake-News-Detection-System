@@ -4,12 +4,17 @@ This is an initiative to identify fake news. Due to its destructive potential to
 
 The project is designed following a project management plan (PMP) to organize the project's lifecycle more effectively. As a result of the project management plan, we can deliver solutions in a timely and cost-effective manner, save money and increase client satisfaction. 
 
-Generally, a project management plan consists of five phases: Project Initiating, Project Planning, Project Executing, Project Monitoring and Controlling, and Project Closing.
+Generally, a project management plan consists of five phases: 
+- Project Initiating
+- Project Planning
+- Project Executing
+- Project Monitoring and Controlling
+- Project Closing 
 
 ## Project Management Plan (PMP)
 **Project Overview**
 
-[Project Overview](../Project Overview.md)
+
 
 **Project Initiating**
 
