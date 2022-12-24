@@ -19,7 +19,7 @@ The **Project Overview** provides an outline of the project's objectives and tea
 The project starts with the **Project Initiation**. The objective of project initiation is to define the project broadly. Typically, the project charter and stakeholders are incorporated into this process.
 
 #### Project Planning
-**Project Plannin** phase is essential to effective project management and focuses on creating a road map for the team. The project's scope is specified, and a plan for project management is developed. Work Breakdown Structure (WBS), Gantt Chart, and Scope Statement (PMP) are included in the Project Management Plan.
+**Project Planning** phase is essential to effective project management and focuses on creating a road map for the team. The project's scope is specified, and a plan for project management is developed. Work Breakdown Structure (WBS), Gantt Chart, and Scope Statement (PMP) are included in the Project Management Plan.
 
 #### Project Executing
 **Project Execution** is the phase in which the work is completed and the project objectives are met. The result, coding blocks, and technical implementation are defined and documented.
@@ -29,3 +29,5 @@ The objective of **Project Monitoring and Controlling** is to measure and evalua
 
 #### Project Closing
 **Project Closing** phase is undertaken to complete all activities and formally finish the project or phase with a closing document and a report on lessons learned.
+
+## Result
