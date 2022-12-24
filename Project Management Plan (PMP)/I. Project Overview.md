@@ -1,6 +1,8 @@
 # PROJECT OVERVIEW
 ### Project Summary
-In our society dominated by the internet, everyone receives news online. Facebook, Twitter, and other social media platforms rapidly distribute news to millions of people. False news propagates bias, which can affect a person. Our Fake News Detection System categorizes news stories using AI, NLP, and machine learning; the news detection and classification module is the primary focus. Users can enter relevant news on our website, and the website will automatically recognize and display the results.
+In our society dominated by the internet, everyone receives news online. Facebook, Twitter, and other social media platforms rapidly distribute news to millions of people. False news propagates bias, which can affect a person. 
+
+Our Fake News Detection System categorizes news stories using AI, NLP, and machine learning; the news detection and classification module is the primary focus. Users can enter relevant news on our website, and the website will automatically recognize and display the results.
 ### Project Title
 **Fake News Detection System** 
 ### Customer 
