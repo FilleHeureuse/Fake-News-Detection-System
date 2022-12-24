@@ -8,7 +8,11 @@ Generally, a project management plan consists of five phases: Project Initiating
 
 ## Project Management Plan (PMP)
 **Project Overview**
+
 **Project Initiating**
+
 **Project Planning**
+
 **Project Monitoring and Controlling**
+
 **Project Closing**
