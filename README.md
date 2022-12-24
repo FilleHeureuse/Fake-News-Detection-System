@@ -13,7 +13,7 @@ Generally, a Project Management Plan consists of five phases:
 
 ## Project Management Plan (PMP)
 #### Project Overview
-The [Project Overview](Project Management Plan (PMP)/I. Project Overview.md) provides an outline of the project's objectives and team members.
+The [Project Overview](https://github.com/FilleHeureuse/Fake-News-Detection-System/blob/main/Project%20Management%20Plan%20(PMP)/I.%20Project%20Overview.md) provides an outline of the project's objectives and team members.
 
 #### Project Initiating
 The project starts with the **Project Initiation**. The objective of project initiation is to define the project broadly. Typically, the project charter and stakeholders are incorporated into this process.
