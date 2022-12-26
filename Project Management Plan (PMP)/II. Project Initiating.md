@@ -1,6 +1,12 @@
 # PROJECT INITIATING
 Several tasks were stated in the initiation procedure: defining the project's objective, preparing the project charter, identifying the project's stakeholders, appointing the project team, and holding a kickoff meeting.
 
+#### 1. Project Objective
+#### 2. Project Charter
+#### 3. Project Skateholders
+#### 4. Project Team
+#### 5. Kick-off Meeting
+
 &nbsp;<br>
 &nbsp;<br>
 &nbsp;<br>
