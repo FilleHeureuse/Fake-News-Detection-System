@@ -1,5 +1,12 @@
 # PROJECT EXECUTION
-
+### Deliverables
+#### Hardware Requirement:
+#### Software Requirement:
+### Milestone Chart
+#### Microsoft Project:
+#### Power Point:
+### Flowchart:
+### Description 
 &nbsp;<br>
 &nbsp;<br>
 &nbsp;<br>
