@@ -1,9 +1,17 @@
 # Project Planning
-#### Scope:
-#### Requirements:
-#### Roles and Responsibilities:
-#### Responsibility Assignment Matrices (RAM):
-#### Work Breakdown Structure (WBS):
+#### Requirements
+1. Dataset for the training and the testing.
+2. Website development platform.
+#### Project Management Life Cycle
+In order to adhere to the guidelines and achieve milestones on a regular basis, the project management life cycle is outlined and documented in Gantt charts. Each member's tasks and work are broken down into several modules by the project life cycle (WBS). The WBS outlines the individual roles and responsibilities of each member during each stage of the lifecycle.
+##### Gantt Chart
+##### Work Breakdown Structure (WBS)
+##### Schedule
+
+#### Scope
+#### Roles and Responsibilities
+#### Responsibility Assignment Matrices (RAM)
+
 &nbsp;<br>
 &nbsp;<br>
 &nbsp;<br>
