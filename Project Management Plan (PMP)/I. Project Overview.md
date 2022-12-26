@@ -17,6 +17,9 @@ Our Fake News Detection System classifies news stories using AI, NLP, and Machin
 | 1. LIEW SZE WEN                        | B032010178 | 
 | 2. ADELLA JAVA DIRGANTARI              | B032010460 | 
 | 3. KEN PRAMESWARI CAESARELLA ARYAPUTRI | B032010461 | 
+
+
+
 &NewLine;
 &NewLine;
 &NewLine;
