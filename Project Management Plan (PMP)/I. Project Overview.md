@@ -18,11 +18,7 @@ Our Fake News Detection System classifies news stories using AI, NLP, and Machin
 | 2. ADELLA JAVA DIRGANTARI              | B032010460 | 
 | 3. KEN PRAMESWARI CAESARELLA ARYAPUTRI | B032010461 | 
 
-
-
-&NewLine;
-&NewLine;
-&NewLine;
-&NewLine;
+, ,
+, ,
 
 Next: [Project Initiating](https://github.com/FilleHeureuse/Fake-News-Detection-System/blob/main/Project%20Management%20Plan%20(PMP)/II.%20Project%20Initiating.md)
