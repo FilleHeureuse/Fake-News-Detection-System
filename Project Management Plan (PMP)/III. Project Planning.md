@@ -2,5 +2,5 @@
 #### Scope:
 #### Requirements:
 #### Roles and Responsibilities:
-#### Risk Analysis:
+#### Responsibility Assignment Matrices (RAM):
 #### Work Breakdown Structure (WBS):
