@@ -1,4 +1,4 @@
-# PROJECT EXECUTION
+# PROJECT EXECUTING
 ### Deliverables
 #### Hardware Requirement:
 #### Software Requirement:
