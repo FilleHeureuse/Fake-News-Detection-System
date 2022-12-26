@@ -2,9 +2,10 @@
 Several tasks were stated in the initiation procedure: defining the project's goal, preparing the project charter, identifying the project's stakeholders, appointing the project team, and holding a kick-off meeting.
 
 #### 1. Project Goal
-To develop a system that users can employ to identify and filter out websites that contain inaccurate and misleading information.
-#### 2. Project Charter
-#### 3. Project Skateholders
+To attain the highest feasible levels of accuracy in detecting fraudulent or misleading information.
+#### 2. Project Skateholders
+
+#### 3. Project Charter
 #### 4. Project Team
 #### 5. Kick-off Meeting
 
