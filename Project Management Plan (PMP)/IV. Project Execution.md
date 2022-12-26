@@ -5,8 +5,9 @@
 ### Milestone Chart
 #### Microsoft Project:
 #### Power Point:
-### Flowchart:
-### Description 
+### Flowchart
+### Description: Coding and Implementation
+### Result
 &nbsp;<br>
 &nbsp;<br>
 &nbsp;<br>
