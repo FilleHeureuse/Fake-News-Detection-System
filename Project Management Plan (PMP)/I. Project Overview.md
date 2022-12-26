@@ -23,5 +23,3 @@ Our Fake News Detection System classifies news stories using AI, NLP, and Machin
 &nbsp;<br>
 
 :arrow_right:: [Project Initiating](https://github.com/FilleHeureuse/Fake-News-Detection-System/blob/main/Project%20Management%20Plan%20(PMP)/II.%20Project%20Initiating.md)
-
-[Next](https://github.com/FilleHeureuse/Fake-News-Detection-System/blob/main/Project%20Management%20Plan%20(PMP)/I.%20Project%20Overview.md)
