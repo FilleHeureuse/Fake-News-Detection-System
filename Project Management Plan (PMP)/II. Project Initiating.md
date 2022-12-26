@@ -4,7 +4,11 @@ Several tasks were stated in the initiation procedure: defining the project's go
 #### 1. Project Goal
 To attain the highest feasible levels of accuracy in detecting fraudulent or misleading information.
 #### 2. Project Skateholders
-
+| S |
+| -------------------------------------- | ---------- |
+| 1. LIEW SZE WEN                        | B032010178 | 
+| 2. ADELLA JAVA DIRGANTARI              | B032010460 | 
+| 3. KEN PRAMESWARI CAESARELLA ARYAPUTRI | B032010461 | 
 #### 3. Project Charter
 #### 4. Project Team
 #### 5. Kick-off Meeting
