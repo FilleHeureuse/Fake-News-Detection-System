@@ -7,9 +7,13 @@ In order to adhere to the guidelines and achieve milestones on a regular basis, 
 #### Gantt Chart
 #### Work Breakdown Structure (WBS)
 #### Schedule
-
+#### Work Breakdown Structure (WBS): Technical Part
 ### Scope
+Establishing the boundaries of a project's purview is of the utmost significance. As a result, in this project, to detect fake news, this system will only recognise the news, not the story or the chat. For instance, the system will display an error warning if a user enters stories or conversations into the text field.
 ### Roles and Responsibilities
+|Roles|<div style="width: 150px"> Person In Charge </div>|Responsibilities|
+|:-----:|:------:|------|
+| Project Manager | Liew Sze Wen | 
 ### Responsibility Assignment Matrices (RAM)
 
 &nbsp;<br>
