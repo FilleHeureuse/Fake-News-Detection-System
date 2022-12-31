@@ -29,8 +29,7 @@ The project charter must contain the following:
 -	Funding authority
 -	Identification of the project team
 -	Assumption
-### 4. Kick-off Meeting
-The primary purpose of a kick-off meeting is to ensure that everyone is on the same page and off to a strong start. To get work started as quickly as possible, this is a chance to introduce people to the team and provide more information about the project.
+
 &nbsp;<br>
 &nbsp;<br>
 &nbsp;<br>
