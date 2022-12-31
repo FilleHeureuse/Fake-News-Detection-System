@@ -18,14 +18,14 @@ This folder contains dataset named News.csv. This project's dataset was obtained
 •Label: This column has five class labels: True, Mostly-True, Half-True, Barely-True, False, and Pants on Fire.
 #### 2. Data Preprocessing
 This folder includes one Python script and one csv file:<br>
-1. Text Pre-processing with stopwords.ipynb
+1.Text Pre-processing with stopwords.ipynb <br>
 ####  *Libraries and Packages Required:*
 ![requirements](https://user-images.githubusercontent.com/121302293/210123593-8c25e0da-a828-4858-83db-58ec1813fe78.png)
-Before we begin the continuous coding, we must import all necessary libraries. 
+Before we begin the continuous coding, we must import all necessary libraries. <br>
 ![1](https://user-images.githubusercontent.com/121302293/210150398-8b4fc9b8-18f7-4d2c-a31d-ae09c748adda.png)
-The code below is created to read the dataset and print its information.
+The code below is created to read the dataset and print its information.<br>
 ![2](https://user-images.githubusercontent.com/121302293/210150378-47d86cac-0152-4c35-a634-b7e4be57089f.png)
-This command displays the non-null values of attributes inside the dataset.
+This command displays the non-null values of attributes inside the dataset. <br>
 ![3](https://user-images.githubusercontent.com/121302293/210150423-106b3f1b-943c-42c6-9f22-078810ade735.png)
 
 
@@ -35,15 +35,15 @@ This folder includes  onr Python script **"Visualization_with_Stopwords.ipynb"**
 The primary purpose of this Python script is to explore the dataset's data analysis. This data analysis will provide information regarding the number of columns that contain valuable features, the significance of each feature concerning the problem statement you wish to solve, the distribution of the data per label, and the identification of frequent word counters in both instances labelled "Fake News" and "Real News."
 #### 4. ML Pipeline & Deployment
 This folder includes two Python script, one pkl file and txt file:
-1. Fake_News_Det.py
+1.Fake_News_Det.py
 The code is used to deployment purpose.
-2. Modelling With Stopwords.ipynb
+2.Modelling With Stopwords.ipynb
 This script consists of two sections for development purpose: 
-- Constructing a machine-learning pipeline.
-- Selecting the most suitable Machine Learning models.
-3. Model.pkl
+  - Constructing a machine-learning pipeline.
+  - Selecting the most suitable Machine Learning models.
+3.Model.pkl
 The final best model that was selected for the production in the deployment stage. 
-4. Requirements.txt
+4.Requirements.txt
 The list of all the required libraries for the project.
 <br>
 ### Result
