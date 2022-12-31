@@ -31,6 +31,8 @@ The objective of [Project Monitoring and Controlling](https://github.com/FilleHe
 [Project Closing](https://github.com/FilleHeureuse/Fake-News-Detection-System/blob/main/Project%20Management%20Plan%20(PMP)/III.%20Project%20Closing.md) phase is undertaken to complete all activities and formally finish the project or phase with a closing document and a report on lessons learned.
 
 ## Result
+### Detect News
 ![Fake_News_Detector_with_News](https://user-images.githubusercontent.com/121302293/210123441-50dd35fb-cbc7-4f85-940c-26e5ce3469f7.png)
+### Detection Result
 ![Fake_News_Detector_Result](https://user-images.githubusercontent.com/121302293/210123450-07239843-17a0-469f-828c-8c4cc6045107.png)
 
