@@ -18,7 +18,7 @@ This folder contains dataset named News.csv. This project's dataset was obtained
 •Label: This column has five class labels: True, Mostly-True, Half-True, Barely-True, False, and Pants on Fire.
 #### 2. Data Preprocessing
 This folder includes one Python script and one csv file:<br>
-1. Text Pre-processing with stopwords.ipynb <br>
+1. Text Pre-processing with stopwords.ipynb <br><br>
 *Libraries and Packages Required:* <br>
 ![requirements](https://user-images.githubusercontent.com/121302293/210123593-8c25e0da-a828-4858-83db-58ec1813fe78.png)<br><br>
 Before we begin the continuous coding, we must import all necessary libraries. <br>
