@@ -15,7 +15,6 @@ This folder contains dataset named News.csv. This project's dataset was obtained
 • Source: This column lists the names of the individuals who posted the news on Facebook,  Instagram, Twitter, or any other social media platform.<br>
 • Stated On: The date on which the authors published the news on various social media channels.<br>
 • Date: This column indicates the date on which the PolitiFact fact-checking team investigated the information to determine whether it was FALSE or TRUE.<br>
-• Date: This column indicates the date on which the PolitiFact fact-checking team investigated the information to determine whether it was FALSE or TRUE.<br>
 •Label: This column has five class labels: True, Mostly-True, Half-True, Barely-True, False, and Pants on Fire.
 #### 2. Data Preprocessing
 This folder includes one Python script and one csv file:<br>
