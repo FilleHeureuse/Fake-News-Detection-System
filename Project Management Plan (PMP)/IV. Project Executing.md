@@ -20,13 +20,13 @@ This folder contains dataset named News.csv. This project's dataset was obtained
 This folder includes one Python script and one csv file:<br>
 1. Text Pre-processing with stopwords.ipynb <br>
 *Libraries and Packages Required:* <br>
-![requirements](https://user-images.githubusercontent.com/121302293/210123593-8c25e0da-a828-4858-83db-58ec1813fe78.png)<br>
+![requirements](https://user-images.githubusercontent.com/121302293/210123593-8c25e0da-a828-4858-83db-58ec1813fe78.png)<br><br>
 Before we begin the continuous coding, we must import all necessary libraries. <br>
-![1](https://user-images.githubusercontent.com/121302293/210150398-8b4fc9b8-18f7-4d2c-a31d-ae09c748adda.png)<br>
+![1](https://user-images.githubusercontent.com/121302293/210150398-8b4fc9b8-18f7-4d2c-a31d-ae09c748adda.png)<br><br>
 The code below is created to read the dataset and print its information.<br>
-![2](https://user-images.githubusercontent.com/121302293/210150378-47d86cac-0152-4c35-a634-b7e4be57089f.png)<br>
+![2](https://user-images.githubusercontent.com/121302293/210150378-47d86cac-0152-4c35-a634-b7e4be57089f.png)<br><br>
 This command displays the non-null values of attributes inside the dataset. <br>
-![3](https://user-images.githubusercontent.com/121302293/210150423-106b3f1b-943c-42c6-9f22-078810ade735.png)<br>
+![3](https://user-images.githubusercontent.com/121302293/210150423-106b3f1b-943c-42c6-9f22-078810ade735.png)<br><br>
 
 
 2. Cleaned_Data.csv
@@ -45,14 +45,12 @@ This script consists of two sections for development purpose:
 The final best model that was selected for the production in the deployment stage. 
 4.Requirements.txt
 The list of all the required libraries for the project.
-<br>
-
 ### Result <br>
 1. Running the **"Fake_News_Det.py"**. A interactive dashboard will appear like follows:
-![Fake_News_Detector](https://user-images.githubusercontent.com/121302293/210138580-2aa39285-455c-4b69-8f8a-a688eb45b27f.png) <br>
+![Fake_News_Detector](https://user-images.githubusercontent.com/121302293/210138580-2aa39285-455c-4b69-8f8a-a688eb45b27f.png) <br><br>
 2. Input one part of the news for which you would like to see results:
-![Fake_News_Detector_with_News](https://user-images.githubusercontent.com/121302293/210138594-dc5e1669-65d4-458a-8f4f-a305d28eb7e8.png)
-3. "Fake News" or "Real News" will display. <br>
+![Fake_News_Detector_with_News](https://user-images.githubusercontent.com/121302293/210138594-dc5e1669-65d4-458a-8f4f-a305d28eb7e8.png)<br><br>
+3. "Fake News" or "Real News" will display. 
 ![Fake_News_Detector_Result](https://user-images.githubusercontent.com/121302293/210138601-cb5018cd-4c9d-45a6-8e31-056fc4094fdb.png)
 
 &nbsp;<br>
