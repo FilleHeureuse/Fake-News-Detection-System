@@ -18,15 +18,15 @@ This folder contains dataset named News.csv. This project's dataset was obtained
 •Label: This column has five class labels: True, Mostly-True, Half-True, Barely-True, False, and Pants on Fire.
 #### 2. Data Preprocessing
 This folder includes one Python script and one csv file:<br>
-1.Text Pre-processing with stopwords.ipynb <br>
-####  *Libraries and Packages Required:*
-![requirements](https://user-images.githubusercontent.com/121302293/210123593-8c25e0da-a828-4858-83db-58ec1813fe78.png)
+1. Text Pre-processing with stopwords.ipynb <br>
+*Libraries and Packages Required:* <br>
+![requirements](https://user-images.githubusercontent.com/121302293/210123593-8c25e0da-a828-4858-83db-58ec1813fe78.png)<br>
 Before we begin the continuous coding, we must import all necessary libraries. <br>
-![1](https://user-images.githubusercontent.com/121302293/210150398-8b4fc9b8-18f7-4d2c-a31d-ae09c748adda.png)
+![1](https://user-images.githubusercontent.com/121302293/210150398-8b4fc9b8-18f7-4d2c-a31d-ae09c748adda.png)<br>
 The code below is created to read the dataset and print its information.<br>
-![2](https://user-images.githubusercontent.com/121302293/210150378-47d86cac-0152-4c35-a634-b7e4be57089f.png)
+![2](https://user-images.githubusercontent.com/121302293/210150378-47d86cac-0152-4c35-a634-b7e4be57089f.png)<br>
 This command displays the non-null values of attributes inside the dataset. <br>
-![3](https://user-images.githubusercontent.com/121302293/210150423-106b3f1b-943c-42c6-9f22-078810ade735.png)
+![3](https://user-images.githubusercontent.com/121302293/210150423-106b3f1b-943c-42c6-9f22-078810ade735.png)<br>
 
 
 2. Cleaned_Data.csv
@@ -46,7 +46,8 @@ The final best model that was selected for the production in the deployment stag
 4.Requirements.txt
 The list of all the required libraries for the project.
 <br>
-### Result
+
+### Result <br>
 1. Running the **"Fake_News_Det.py"**. A interactive dashboard will appear like follows:
 ![Fake_News_Detector](https://user-images.githubusercontent.com/121302293/210138580-2aa39285-455c-4b69-8f8a-a688eb45b27f.png) <br>
 2. Input one part of the news for which you would like to see results:
