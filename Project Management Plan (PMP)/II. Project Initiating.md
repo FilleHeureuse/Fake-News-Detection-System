@@ -2,7 +2,7 @@
 Several tasks were stated in the initiation procedure: defining the project's goal, preparing the project charter, identifying the project's stakeholders, appointing the project team, and holding a kick-off meeting.
 
 #### 1. Project Goal
-To attain the highest feasible levels of accuracy in detecting fraudulent or misleading information.
+To attain the highest feasible levels of accuracy in detecting fraudulent or misleading news.
 #### 2. Project Skateholders
 | Types                                  | Name                                |
 | -------------------------------------- | ----------------------------------- |
