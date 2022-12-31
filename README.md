@@ -32,7 +32,9 @@ The objective of [Project Monitoring and Controlling](https://github.com/FilleHe
 
 ## Result
 ### Detect News
-![Fake_News_Detector_with_News](https://user-images.githubusercontent.com/121302293/210123441-50dd35fb-cbc7-4f85-940c-26e5ce3469f7.png)
+![Fake_News_Detector_with_News](https://user-images.githubusercontent.com/121302293/210123488-68756d35-0853-4a36-a071-ac9081162b6f.png)
 ### Detection Result
-![Fake_News_Detector_Result](https://user-images.githubusercontent.com/121302293/210123450-07239843-17a0-469f-828c-8c4cc6045107.png)
+![Fake_News_Detector_Result](https://user-images.githubusercontent.com/121302293/210123495-dc22c10a-809e-4ae0-b36f-833cdedb8cbb.png)
+
+
 
