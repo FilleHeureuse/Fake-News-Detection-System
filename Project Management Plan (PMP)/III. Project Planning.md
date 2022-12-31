@@ -1,9 +1,10 @@
 # Project Planning
+### Kick-off Meeting
+The primary purpose of a kick-off meeting is to ensure that everyone is on the same page and off to a strong start. To get work started as quickly as possible, this is a chance to introduce people to the team and provide more information about the project.
+
 ### Requirements
 1. Dataset for the training and the testing.
 2. Website development platform.
-### Kick-off Meeting
-The primary purpose of a kick-off meeting is to ensure that everyone is on the same page and off to a strong start. To get work started as quickly as possible, this is a chance to introduce people to the team and provide more information about the project.
 ### Project Management Life Cycle
 In order to adhere to the guidelines and achieve milestones on a regular basis, the project management life cycle is outlined and documented in Gantt charts. Each member's tasks and work are broken down into several modules by the project life cycle (WBS). The WBS outlines the individual roles and responsibilities of each member during each stage of the lifecycle.
 #### Gantt Chart
