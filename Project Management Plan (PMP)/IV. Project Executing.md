@@ -48,11 +48,12 @@ The list of all the required libraries for the project.
 <br>
 ### Result
 1. Running the **"Fake_News_Det.py"**. A interactive dashboard will appear like follows:
-![Fake_News_Detector](https://user-images.githubusercontent.com/121302293/210138580-2aa39285-455c-4b69-8f8a-a688eb45b27f.png)
+![Fake_News_Detector](https://user-images.githubusercontent.com/121302293/210138580-2aa39285-455c-4b69-8f8a-a688eb45b27f.png) <br>
 2. Input one part of the news for which you would like to see results:
 ![Fake_News_Detector_with_News](https://user-images.githubusercontent.com/121302293/210138594-dc5e1669-65d4-458a-8f4f-a305d28eb7e8.png)
-3. "Fake News" or "Real News" will display.
+3. "Fake News" or "Real News" will display. <br>
 ![Fake_News_Detector_Result](https://user-images.githubusercontent.com/121302293/210138601-cb5018cd-4c9d-45a6-8e31-056fc4094fdb.png)
+
 &nbsp;<br>
 &nbsp;<br>
 &nbsp;<br>
