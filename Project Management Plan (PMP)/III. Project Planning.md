@@ -1,7 +1,7 @@
 # Project Planning
 ### Kick-off Meeting
 The primary purpose of a kick-off meeting is to ensure that everyone is on the same page and off to a strong start. To get work started as quickly as possible, this is a chance to introduce people to the team and provide more information about the project. <br>
-[Kick Off Meeting.pdf](https://github.com/FilleHeureuse/Fake-News-Detection-System/files/10328316/Kick.Off.Meeting.pdf)
+![Kick Off Meeting Minutes](https://user-images.githubusercontent.com/121302293/210161459-d46c0ec2-3ce8-4972-a20f-50478fb2f665.jpg)
 ### Requirements
 1. Dataset for the training and the testing.
 2. Website development platform.
