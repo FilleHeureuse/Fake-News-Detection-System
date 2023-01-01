@@ -6,7 +6,7 @@ To attain the highest feasible levels of accuracy in detecting fraudulent or mis
 ### 2. Project Skateholders
 | Types                                  | Name                                |
 | -------------------------------------- | ----------------------------------- |
-| A. Customer                            | ABC Company                         | 
+| A. Customer                            | ABC News Company                         | 
 | B. Project Leader                      | Liew Sze Wen                        | 
 | C. Resource Managers                   | Adella Java Dirgantari              |
 |                                        | Ken Prameswari Caesarella Aryaputri |
