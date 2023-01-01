@@ -14,7 +14,7 @@ To attain the highest feasible levels of accuracy in detecting fraudulent or mis
 |                                        | Back-end Developers                 |
 ### 3. Project Charter
 In the initiation phase, the project charter is the most significant deliverable. The project charter plays a crucial role in the project's development since it is the first formal definition of the project. Project charters establish the project manager's legal authority, define the project's high-level requirements, milestones, and success criteria for the project, as well as the project manager's authority to take on the project.
-&nbsp;<br>
+&nbsp;<br><br>
 The project charter must contain the following:
 &nbsp;<br>
 - Problem definition
