@@ -1,12 +1,9 @@
 # PROJECT EXECUTING
-### Deliverables
-#### Software Requirement:
+### Software Requirement:
 - Python Language
 - HyperText Markup Language (HTML)
-### Milestone Chart
-#### Microsoft Project:
-#### Power Point:
 ### Flowchart
+
 ### Description: File, Coding and Implementation
 #### 1. Dataset  
 This folder contains dataset named News.csv. This project's dataset was obtained via the Kaggle platform at https://www.kaggle.com/techykajal/fakereal-news. This dataset has six attributes, with News Headline being the most crucial for classifying news as FALSE or TRUE.<br>
