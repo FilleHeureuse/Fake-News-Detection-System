@@ -35,9 +35,9 @@ This folder includes  onr Python script **"Visualization_with_Stopwords.ipynb"**
 The primary purpose of this Python script is to explore the dataset's data analysis. This data analysis will provide information regarding the number of columns that contain valuable features, the significance of each feature concerning the problem statement you wish to solve, the distribution of the data per label, and the identification of frequent word counters in both instances labelled "Fake News" and "Real News."
 #### 4. ML Pipeline & Deployment
 This folder includes two Python script, one pkl file and txt file:
-1. Fake_News_Det.py 
+1. Fake_News_Det.py<br> 
 The code is used to deployment purpose.
-2. Modelling With Stopwords.ipynb
+2. Modelling With Stopwords.ipynb<br>
 This script consists of two sections for development purpose: 
 - Constructing a machine-learning pipeline.
 - Selecting the most suitable Machine Learning models.
