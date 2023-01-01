@@ -8,6 +8,7 @@ In order to adhere to the guidelines and achieve milestones on a regular basis, 
 #### Work Breakdown Structure (WBS)
 #### Schedule
 #### Work Breakdown Structure (WBS): Technical Part
+![wbs](https://user-images.githubusercontent.com/121302293/210163070-f2778bcf-436e-40c2-af0f-60ad52f2d3a6.png)
 ### Scope
 Establishing the boundaries of a project's purview is of the utmost significance. As a result, in this project, to detect fake news, this system will only recognise the news, not the story or the chat. For instance, the system will display an error warning if a user enters stories or conversations into the text field.
 ### Roles and Responsibilities
