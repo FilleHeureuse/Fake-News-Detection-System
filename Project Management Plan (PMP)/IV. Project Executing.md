@@ -39,8 +39,8 @@ This folder includes two Python script, one pkl file and txt file:
 The code is used to deployment purpose.
 2. Modelling With Stopwords.ipynb<br>
 This script consists of two sections for development purpose:<br> 
-&nbsp;- Constructing a machine-learning pipeline.
-&nbsp;- Selecting the most suitable Machine Learning models.
+&nbsp; - Constructing a machine-learning pipeline.
+&nbsp; - Selecting the most suitable Machine Learning models.
 3. Model.pkl<br>
 The final best model that was selected for the production in the deployment stage. 
 4. Requirements.txt<br>
