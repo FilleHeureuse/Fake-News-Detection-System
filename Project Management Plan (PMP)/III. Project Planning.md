@@ -11,6 +11,9 @@ In order to adhere to the guidelines and achieve milestones on a regular basis, 
 #### Work Breakdown Structure (WBS)
 ![Wbs Combine (2)](https://user-images.githubusercontent.com/121302293/210179379-b01f8e09-e12a-4f88-a909-5718f6133dc8.png)
 #### Schedule
+![schedule1](https://user-images.githubusercontent.com/121302293/210179973-0b65f8c6-30f6-46e6-b934-a7e21a02f378.png)
+![schedule2](https://user-images.githubusercontent.com/121302293/210179978-4df81084-6354-4acb-b329-739efee84e91.png)
+![schedule3](https://user-images.githubusercontent.com/121302293/210179981-e94a7a4f-70fe-42eb-b345-da4951240aa5.png)
 #### Work Breakdown Structure (WBS): Technical Part
 ![wbs](https://user-images.githubusercontent.com/121302293/210163070-f2778bcf-436e-40c2-af0f-60ad52f2d3a6.png)
 ### Scope
