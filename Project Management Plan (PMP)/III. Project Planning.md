@@ -15,19 +15,7 @@ Establishing the boundaries of a project's purview is of the utmost significance
 |Roles|<div style="width: 150px"> Person In Charge </div>|Responsibilities|
 |:-----:|:------:|------|
 | Project Manager | Liew Sze Wen | The Project Manager is responsible for all office management activities related to the project. The Project Manager is responsible for planning, guiding, and overseeing the day-to-day internal activities supporting the Project Office. The Project Manager assists with the development of the master project schedule as well as all other project work plans. Fake News Detection System's Project Manager must identify who can be approached about the idea and who is likely to accept it. Moreover, the Project Manager is responsible for ensuring that all documents related to project initiation and planning are clear and complete, such as the Work Breakdown Structure (WBS) and Gantt chart.<br>According to OSI Best Practices and policies, the Project Manager is responsible for developing, maintaining, and adhering to the Project Office infrastructure and supporting methods. Fake News Detection System Project development must also adhere to the project's scope and requirements. The project manager must implement corrective measures if difficulties arise.|
-| Procurement Manager | Adella Java Dirgantari | The procurement manager is an expert purchaser responsible for acquiring all the goods and services required to operate or expand a business.<br> Roles and responsibilities:
-* Meet with supervisors and department leaders to determine the company's needs.
-* Forecast supply and demand.
-* Requests for Proposals (RFPs).
-* Evaluate and negotiate vendor and supplier contracts.
-* Assign responsibilities to the procurement team.
-<br>Day-to-day duties:
-* Research suppliers and vendors that align with the company's objectives.
-* Find suppliers with the necessary certificates, accreditations, and insurance, as well as a * * consistent supply of materials that fit within your budget.
-* Manage inventory
-* Ensure partners continue to meet the demands of the company.
-* Collect and analyze data to ensure that the organization makes the best decisions possible.
-* Align departmental budgets with requirements.|
+| Procurement Manager | Adella Java Dirgantari | The procurement manager is an expert purchaser responsible for acquiring all the goods and services required to operate or expand a business.<br> Roles and responsibilities: * Meet with supervisors and department leaders to determine the company's needs. * Forecast supply and demand. * Requests for Proposals (RFPs). * Evaluate and negotiate vendor and supplier contracts. * Assign responsibilities to the procurement team. <br>Day-to-day duties: * Research suppliers and vendors that align with the company's objectives. * Find suppliers with the necessary certificates, accreditations, and insurance, as well as a consistent supply of materials that fit within your budget. * Manage inventory * Ensure partners continue to meet the demands of the company. * Collect and analyze data to ensure that the organization makes the best decisions possible. * Align departmental budgets with requirements.|
 ### Responsibility Assignment Matrices (RAM)
 
 &nbsp;<br>
