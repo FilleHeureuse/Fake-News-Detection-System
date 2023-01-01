@@ -5,7 +5,7 @@ The primary purpose of a kick-off meeting is to ensure that everyone is on the s
 ### Project Management Life Cycle
 In order to adhere to the guidelines and achieve milestones on a regular basis, the project management life cycle is outlined and documented in Gantt charts. Each member's tasks and work are broken down into several modules by the project life cycle (WBS). The WBS outlines the individual roles and responsibilities of each member during each stage of the lifecycle.
 #### Gantt Chart
-![Gantt Chart_00001](https://user-images.githubusercontent.com/121302293/210179659-9a7f9411-9170-4fba-82f8-4b3dd010971f.png)
+![image](https://user-images.githubusercontent.com/121302293/210179700-b84308a5-fe39-444f-9165-ed671fc2b159.png)
 ![Gantt Chart_00002](https://user-images.githubusercontent.com/121302293/210179661-477770cc-2815-4140-b757-99da8186fddd.png)
 ![Gantt Chart_00003](https://user-images.githubusercontent.com/121302293/210179664-66542901-5b4b-415b-8624-fd853cfaa7b5.png)
 #### Work Breakdown Structure (WBS)
