@@ -14,7 +14,8 @@ Establishing the boundaries of a project's purview is of the utmost significance
 ### Roles and Responsibilities
 |Roles|<div style="width: 150px"> Person In Charge </div>|Responsibilities|
 |:-----:|:------:|------|
-| Project Manager | Liew Sze Wen | 
+| Project Manager | Liew Sze Wen | The Project Manager is responsible for all office management activities related to the project. The Project Manager is responsible for planning, guiding, and overseeing the day-to-day internal activities supporting the Project Office. The Project Manager assists with the development of the master project schedule as well as all other project work plans. Fake News Detection System's Project Manager must identify who can be approached about the idea and who is likely to accept it. Moreover, the Project Manager is responsible for ensuring that all documents related to project initiation and planning are clear and complete, such as the Work Breakdown Structure (WBS) and Gantt chart.
+According to OSI Best Practices and policies, the Project Manager is responsible for developing, maintaining, and adhering to the Project Office infrastructure and supporting methods. Fake News Detection System Project development must also adhere to the project's scope and requirements. The project manager must implement corrective measures if difficulties arise. |
 ### Responsibility Assignment Matrices (RAM)
 
 &nbsp;<br>
