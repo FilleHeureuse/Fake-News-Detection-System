@@ -7,7 +7,7 @@ In order to adhere to the guidelines and achieve milestones on a regular basis, 
 #### Gantt Chart
 
 #### Work Breakdown Structure (WBS)
-![Wbs Combine (2)](https://user-images.githubusercontent.com/121302293/210179348-dd3bc6c2-6ee8-4a79-8b87-5f970406409d.png)
+![Wbs Combine (2)](https://user-images.githubusercontent.com/121302293/210179379-b01f8e09-e12a-4f88-a909-5718f6133dc8.png)
 #### Schedule
 #### Work Breakdown Structure (WBS): Technical Part
 ![wbs](https://user-images.githubusercontent.com/121302293/210163070-f2778bcf-436e-40c2-af0f-60ad52f2d3a6.png)
