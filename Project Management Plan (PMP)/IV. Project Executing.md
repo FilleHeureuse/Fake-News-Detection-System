@@ -2,6 +2,8 @@
 ### Software Requirement:
 - Python Language
 - HyperText Markup Language (HTML)
+### Milestone Chart
+
 ### Flowchart
 
 ### Description: File, Coding and Implementation
