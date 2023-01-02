@@ -1,7 +1,7 @@
 # PROJECT CLOSING
 #### A. Customer Acceptance Form
-![ACCEPTANCE FORM1](https://user-images.githubusercontent.com/121302293/210234129-8afaa26b-90e8-4015-8357-265b30157114.jpg)
-![ACCEPTANCE FORM2](https://user-images.githubusercontent.com/121302293/210234146-dc750472-824f-4b17-8678-4b5301e19764.jpg)
+![ACCEPTANCE FORM1](https://user-images.githubusercontent.com/121302293/210234482-97593452-2152-4c0a-92db-147f4d9efe01.jpg)
+![ACCEPTANCE FORM2](https://user-images.githubusercontent.com/121302293/210234488-754c1976-2b1f-4b9d-a576-c3f781b7a2a1.jpg)
 #### B. Lesson Learned Document
 #### C. Final Report
 #### D. Close Contract
