@@ -67,11 +67,11 @@ Before analysing the data, there several preprocessing steps need to be done.
 ![15](https://user-images.githubusercontent.com/121302293/210194099-6d0e2238-0dbe-4982-a2a8-366fdceeaa62.png)
 * Correct Mis-Spelled Words in Text
 ![16](https://user-images.githubusercontent.com/121302293/210194107-68d523e2-2b0a-451e-ab2b-eb56ef5615e6.png)
-* Lemmatization
+* Lemmatization <br>
 ![17](https://user-images.githubusercontent.com/121302293/210194110-e6580fa9-906d-4e7f-a688-2998a90553b8.png)
-After we defined these *Data Normalization* techniques, we combine them into a single function.
+After we defined these *Data Normalization* techniques, we combine them into a single function.<br>
 ![18](https://user-images.githubusercontent.com/121302293/210194152-0b3cafc6-3895-4224-bc98-716938830129.png)
-2. **Cleaned_Data.csv**
+2. **Cleaned_Data.csv**<br>
 This csv file contains 7754 data and is saved after the data is done preprocessing. This data will be used for data analysis.<br><br>
 ![image](https://user-images.githubusercontent.com/121302293/210196012-a7e08b8a-32b2-4587-a6b6-0f70fcad73b2.png)
 #### 3. Data Visualization
