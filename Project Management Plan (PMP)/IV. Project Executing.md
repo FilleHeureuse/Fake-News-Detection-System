@@ -27,11 +27,34 @@ This folder includes one Python script and one csv file:<br>
 *Libraries and Packages Required:* <br>
 ![requirements](https://user-images.githubusercontent.com/121302293/210123593-8c25e0da-a828-4858-83db-58ec1813fe78.png)<br><br>
 Before analysing the data, there several preprocessing steps need to be done.
-<ul><li>Remove Emojis 
-![6](https://user-images.githubusercontent.com/121302293/210193860-2b20f148-db92-4880-8f24-f6f7ef59ca2a.png)</li></ul>
-
-
-
+* Remove Emojis 
+![6](https://user-images.githubusercontent.com/121302293/210193860-2b20f148-db92-4880-8f24-f6f7ef59ca2a.png)
+* Remove NewLines & Tabs
+![7](https://user-images.githubusercontent.com/121302293/210193956-c59727f9-e47b-40d7-8c0a-efc6dc29a916.png)
+* Remove Strip HTML Tags
+![8](https://user-images.githubusercontent.com/121302293/210193968-6fafdeda-c3fa-4f95-ba9e-59c30694f37c.png)
+* Remove Links
+![9](https://user-images.githubusercontent.com/121302293/210193976-13c05d11-61fb-481c-948e-3f391099bd58.png)
+* Remove WhiteSpaces
+![10](https://user-images.githubusercontent.com/121302293/210193991-05ea8984-d166-40bf-92de-5b39bdf98b25.png)
+* Remove Accented Characters, Case Conversion (to lowercase)
+![11](https://user-images.githubusercontent.com/121302293/210194023-b49e21a9-f7ea-439c-9574-97ca157e7b8c.png)
+* Reduce Repetaed Characters and Punctuations
+![12](https://user-images.githubusercontent.com/121302293/210194045-2f5237ff-3e6c-4369-9bd1-bd510d37c57f.png)
+* Expand Contraction Words
+![13](https://user-images.githubusercontent.com/121302293/210194064-3cc9e25d-d31e-47e6-b883-933719fffede.png)
+![13a](https://user-images.githubusercontent.com/121302293/210194069-440dc9d5-447f-435b-a70e-01fa6e823884.png)
+![13b](https://user-images.githubusercontent.com/121302293/210194077-544b48f8-6b3d-4254-9d11-4e9fb1fc3959.png)
+* Remove Special Characters
+![14](https://user-images.githubusercontent.com/121302293/210194089-c04f673d-7833-43e6-b5ca-44686d7d2342.png)
+* Remove Stopwords
+![15](https://user-images.githubusercontent.com/121302293/210194099-6d0e2238-0dbe-4982-a2a8-366fdceeaa62.png)
+* Correct Mis-Spelled Words in Text
+![16](https://user-images.githubusercontent.com/121302293/210194107-68d523e2-2b0a-451e-ab2b-eb56ef5615e6.png)
+* Lemmatization
+![17](https://user-images.githubusercontent.com/121302293/210194110-e6580fa9-906d-4e7f-a688-2998a90553b8.png)
+After we defined these *Data Normalization* techniques, we combine them into a single function.
+![18](https://user-images.githubusercontent.com/121302293/210194152-0b3cafc6-3895-4224-bc98-716938830129.png)
 2. **Cleaned_Data.csv**
 
 #### 3. Data Visualization
