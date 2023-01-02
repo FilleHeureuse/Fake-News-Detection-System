@@ -1,5 +1,6 @@
-# PROJECT MONNITORING AND CONTROLLING
+# PROJECT MONITORING AND CONTROLLING
 ### Quality Deliverables
+
 ### Cost Tracking
 ### Project Status Report
 &nbsp;<br>
