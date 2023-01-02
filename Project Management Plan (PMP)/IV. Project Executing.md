@@ -26,8 +26,9 @@ This folder includes one Python script and one csv file:<br>
 1. **Text Pre-processing with stopwords.ipynb** <br><br>
 *Libraries and Packages Required:* <br>
 ![requirements](https://user-images.githubusercontent.com/121302293/210123593-8c25e0da-a828-4858-83db-58ec1813fe78.png)<br><br>
-Before analysing the data, there several steps need to be done.
-<ul><li>Remove Emojis ![6](https://user-images.githubusercontent.com/121302293/210193860-2b20f148-db92-4880-8f24-f6f7ef59ca2a.png)</li></ul>
+Before analysing the data, there several preprocessing steps need to be done.
+<ul><li>Remove Emojis 
+![6](https://user-images.githubusercontent.com/121302293/210193860-2b20f148-db92-4880-8f24-f6f7ef59ca2a.png)</li></ul>
 
 
 
