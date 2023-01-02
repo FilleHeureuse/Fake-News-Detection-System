@@ -10,8 +10,8 @@
 ### Description: File, Coding and Implementation
 #### 1. Dataset  
 This folder contains dataset named News.csv. This project's dataset was obtained via the Kaggle platform at https://www.kaggle.com/techykajal/fakereal-news. This dataset has six attributes, with News Headline being the most crucial for classifying news as FALSE or TRUE.<br><br>
-|**Attributes**| **Responsibilities** |
-|:-----:|------|
+|   **Attributes**     | **Responsibilities** |
+|:---------:|------|
 | News Headline | Include data requiring analysis. |
 | Link Of News | The URL of the news headline given in the first column. |
 | Source | This column lists the names of the individuals who posted the news on Facebook,  Instagram, Twitter, or any other social media platform. |
