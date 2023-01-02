@@ -4,7 +4,7 @@
 - HyperText Markup Language (HTML)
 ### Milestone Chart
 ![image](https://user-images.githubusercontent.com/121302293/210191661-11d5ba9b-ee47-4303-96da-350fb4d15008.png)
-![image](https://user-images.githubusercontent.com/121302293/210191668-3bf29591-940e-4ba2-aa56-aed13b880f0a.png)
+![image](https://user-images.githubusercontent.com/121302293/210191700-9b3de5f3-b6f6-49c0-977d-d8e088721823.png)
 ### Flowchart
 
 ### Description: File, Coding and Implementation
