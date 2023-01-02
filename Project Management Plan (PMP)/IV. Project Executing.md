@@ -20,6 +20,7 @@ This folder contains dataset named News.csv. This project's dataset was obtained
 Preprocessing data is an important step for data analysis. 
 <ul><li>It improves accuracy and reliability. It can improve the accuracy and quality of a dataset by removing inconsistent or missing data values due to human or computer error.</li><li>It makes data consistent. In the process of collecting data, duplicates are possible. Discarding them during preprocessing is an effective way to ensure that the <data values for analysis are consistent, allowing the results to be as accurate as possible.</li><li>The algorithm becomes easier to read as a result. Preprocessing data enhances its quality and makes it easier for machine learning algorithms to read, use, and interpret it.</li></ul>
 This folder includes one Python script and one csv file:<br>
+
 1. Text Pre-processing with stopwords.ipynb <br><br>
 *Libraries and Packages Required:* <br>
 ![requirements](https://user-images.githubusercontent.com/121302293/210123593-8c25e0da-a828-4858-83db-58ec1813fe78.png)<br><br>
