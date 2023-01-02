@@ -6,7 +6,7 @@
 ![image](https://user-images.githubusercontent.com/121302293/210191661-11d5ba9b-ee47-4303-96da-350fb4d15008.png)
 ![image](https://user-images.githubusercontent.com/121302293/210191700-9b3de5f3-b6f6-49c0-977d-d8e088721823.png)
 ### Flowchart
-
+![image](https://user-images.githubusercontent.com/121302293/210193277-b4fafca5-1f9f-4a99-beb2-904cbf8630ad.png)
 ### Description: File, Coding and Implementation
 #### 1. Dataset  
 This folder contains dataset named News.csv. This project's dataset was obtained via the Kaggle platform at https://www.kaggle.com/techykajal/fakereal-news. This dataset has six attributes, with News Headline being the most crucial for classifying news as FALSE or TRUE.<br>
