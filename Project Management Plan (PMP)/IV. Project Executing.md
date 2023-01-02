@@ -1,5 +1,5 @@
 # PROJECT EXECUTING
-### Software Requirement:
+### Software Requirement
 - Python Language
 - HyperText Markup Language (HTML)
 ### Milestone Chart
