@@ -6,6 +6,10 @@
 ![LESSONS LEARNED REPORT_00001 (1)](https://user-images.githubusercontent.com/121302293/210247450-431a88a7-3482-454b-b54b-78b4d95acc22.png)
 ![LESSONS LEARNED REPORT_00002](https://user-images.githubusercontent.com/121302293/210247209-bc235cce-2515-4aa4-bb7f-a7b9a3e998d2.png)
 ### C. Final Report
+| #### FAKE NEWS DETECTION SYSTEM |
+| ------------------------------- |
+| #### 1.0 PROJECT OBJECTIVES |
+
 
 ### D. Close Contract
 ![image](https://user-images.githubusercontent.com/121302293/210256943-91c6cf1f-241f-4740-8050-cec7d9c3540b.png)
