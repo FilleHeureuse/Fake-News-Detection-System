@@ -8,8 +8,16 @@
 ### C. Final Report
 | **FAKE NEWS DETECTION SYSTEM** |
 | ------------------------------- |
-| ** 1.0 PROJECT OBJECTIVES** |
+| **1.0 PROJECT OBJECTIVES** |
 | The purpose of LAE IT Company's false news detection system was to establish an Artificial Intelligence (AI) system capable of detecting the veracity of news items. Apart from that, we developed this system to identify "Fake" news from "Real" news. |
+| **2.0 PROJECT SCOPE** |
+| To attain the highest feasible levels of accuracy in detecting fraudulent or misleading news. |
+| **3.0 PROJECT RESULT'S SUMMARY |
+| |
+| **4.0 GANTT CHART** |
+| |
+| **5.0 BUDGET** |
+| |
 
 
 ### D. Close Contract
