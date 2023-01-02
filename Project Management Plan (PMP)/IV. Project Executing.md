@@ -41,14 +41,16 @@ Before analysing the data, there several preprocessing steps need to be done.
 ![11](https://user-images.githubusercontent.com/121302293/210194023-b49e21a9-f7ea-439c-9574-97ca157e7b8c.png)
 * Reduce Repetaed Characters and Punctuations
 ![12](https://user-images.githubusercontent.com/121302293/210194045-2f5237ff-3e6c-4369-9bd1-bd510d37c57f.png)
-<\t>Explanation for using some symbols in above regex expression:<br>
-<\t>\1 —> is equivalent to re.search(...). group(1). It Refers to first capturing group. \1 matches the exact same text that was matched by the first capturing group.<br>
-<\t>{1,} --> It means we are matching for repeatation that occurs more than one times.<br>
-<\t>DOTALL -> It matches newline character as well unlike dot operator which matches everything in the given text except newline character.<br>
-<\t>sub() --> This function is used to replace occurrences of a particular sub-string with another sub-string. This function takes as input the following: The sub-<\t><\t><\t>string to replace. The sub-string to replace with.<br>
-<\t>r'\1\1' --> It limits all the repeatation to two characters.<br>
-<\t>r'\1' --> Limits all the repeatation to only one character.<br>
-<\t>{2,} --> It means to match for repeatation that occurs more than two times
+   Explanation for using some symbols in above regex expression:<br>
+   | **Symbols** | **Description** |
+   |:-------:|------|
+   | \1 | Is equivalent to re.search(...). group(1). It Refers to first capturing group. \1 matches the exact same text that was matched by the first capturing group.|
+   | {1,} | It means we are matching for repeatation that occurs more than one times.|
+   | DOTALL | It matches newline character as well unlike dot operator which matches everything in the given text except newline character.|
+   | sub() | This function is used to replace occurrences of a particular sub-string with another sub-string. This function takes as input the following: The sub-          string to replace. The sub-string to replace with.|
+   | r'\1\1' | It limits all the repeatation to two characters.|
+   | r'\1' | Limits all the repeatation to only one character.|
+   | {2,} | It means to match for repeatation that occurs more than two times|
 * Expand Contraction Words
 ![13](https://user-images.githubusercontent.com/121302293/210194064-3cc9e25d-d31e-47e6-b883-933719fffede.png)
 ![13a](https://user-images.githubusercontent.com/121302293/210194069-440dc9d5-447f-435b-a70e-01fa6e823884.png)
