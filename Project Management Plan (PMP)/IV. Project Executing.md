@@ -76,9 +76,9 @@ This csv file contains 7754 data and is saved after the data is done preprocessi
 ![image](https://user-images.githubusercontent.com/121302293/210196012-a7e08b8a-32b2-4587-a6b6-0f70fcad73b2.png)
 #### 3. Data Visualization
 This folder includes  onr Python script **"Visualization_with_Stopwords.ipynb"**. <br>
-The primary purpose of this Python script is to explore the dataset's data analysis. This data analysis will provide information regarding the number of columns that contain valuable features, the significance of each feature concerning the problem statement you wish to solve, the distribution of the data per label, and the identification of frequent word counters in both instances labelled "Fake News" and "Real News."<br>
+The primary purpose of this Python script is to explore the dataset's data analysis. This data analysis will provide information regarding the number of columns that contain valuable features, the significance of each feature concerning the problem statement you wish to solve, the distribution of the data per label, and the identification of frequent word counters in both instances labelled "Fake News" and "Real News."<br><br>
 **Word Cloud: Fake News**<br>
-![image](https://user-images.githubusercontent.com/121302293/210195634-49dd0b6c-b615-49e5-a849-ccc2b62f1be2.png)<br>
+![image](https://user-images.githubusercontent.com/121302293/210195634-49dd0b6c-b615-49e5-a849-ccc2b62f1be2.png)<br><br>
 **Word Cloud: Real News**<br>
 ![image](https://user-images.githubusercontent.com/121302293/210195650-620c4bdc-fe14-4845-8fef-1746feca0548.png)
 #### 4. ML Pipeline & Deployment
@@ -92,7 +92,7 @@ This script consists of two sections for development purpose:<br>
 3. Model.pkl<br>
 The final best model that was selected for the production in the deployment stage. 
 4. Requirements.txt<br>
-The list of all the required libraries for the project. <br>
+The list of all the required libraries for the project. <br><br>
 ![requirements](https://user-images.githubusercontent.com/121302293/210123593-8c25e0da-a828-4858-83db-58ec1813fe78.png)
 ### Result <br>
 1. Running the **"Fake_News_Det.py"**. A interactive dashboard will appear like follows:
