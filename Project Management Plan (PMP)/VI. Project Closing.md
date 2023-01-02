@@ -6,9 +6,10 @@
 ![LESSONS LEARNED REPORT_00001 (1)](https://user-images.githubusercontent.com/121302293/210247450-431a88a7-3482-454b-b54b-78b4d95acc22.png)
 ![LESSONS LEARNED REPORT_00002](https://user-images.githubusercontent.com/121302293/210247209-bc235cce-2515-4aa4-bb7f-a7b9a3e998d2.png)
 ### C. Final Report
-| #### FAKE NEWS DETECTION SYSTEM |
+| **FAKE NEWS DETECTION SYSTEM** |
 | ------------------------------- |
-| #### 1.0 PROJECT OBJECTIVES |
+| ** 1.0 PROJECT OBJECTIVES** |
+| The purpose of LAE IT Company's false news detection system was to establish an Artificial Intelligence (AI) system capable of detecting the veracity of news items. Apart from that, we developed this system to identify "Fake" news from "Real" news. |
 
 
 ### D. Close Contract
