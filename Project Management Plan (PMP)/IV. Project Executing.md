@@ -3,7 +3,8 @@
 - Python Language
 - HyperText Markup Language (HTML)
 ### Milestone Chart
-
+![image](https://user-images.githubusercontent.com/121302293/210191661-11d5ba9b-ee47-4303-96da-350fb4d15008.png)
+![image](https://user-images.githubusercontent.com/121302293/210191668-3bf29591-940e-4ba2-aa56-aed13b880f0a.png)
 ### Flowchart
 
 ### Description: File, Coding and Implementation
