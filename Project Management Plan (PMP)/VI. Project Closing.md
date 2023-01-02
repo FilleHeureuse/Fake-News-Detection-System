@@ -1,7 +1,7 @@
 # PROJECT CLOSING
 #### A. Customer Acceptance Form
-![1](https://user-images.githubusercontent.com/121302293/210248845-d8f23a01-ec3f-452f-b938-09ae38947911.png)
-![image](https://user-images.githubusercontent.com/121302293/210234752-c3b06d05-46d0-4627-8d98-d9de3e83c15a.png)
+![image](https://user-images.githubusercontent.com/121302293/210250556-46531913-3196-40c9-8f95-2ab6bee52044.png)
+![image](https://user-images.githubusercontent.com/121302293/210250594-8e2098fb-1c61-4766-93fe-e84f6c39454e.png)
 #### B. Lesson Learned Document
 ![LESSONS LEARNED REPORT_00001 (1)](https://user-images.githubusercontent.com/121302293/210247450-431a88a7-3482-454b-b54b-78b4d95acc22.png)
 ![LESSONS LEARNED REPORT_00002](https://user-images.githubusercontent.com/121302293/210247209-bc235cce-2515-4aa4-bb7f-a7b9a3e998d2.png)
