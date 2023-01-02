@@ -52,9 +52,9 @@ Before analysing the data, there several preprocessing steps need to be done.
    | r'\1' | Limits all the repeatation to only one character. |
    | {2,} | It means to match for repeatation that occurs more than two times. |
 * Expand Contraction Words
-![13](https://user-images.githubusercontent.com/121302293/210194064-3cc9e25d-d31e-47e6-b883-933719fffede.png)
-![13a](https://user-images.githubusercontent.com/121302293/210194069-440dc9d5-447f-435b-a70e-01fa6e823884.png)
-![13b](https://user-images.githubusercontent.com/121302293/210194298-fe2203f4-040d-421c-9f30-4d0025c3136b.png)
+![13](https://user-images.githubusercontent.com/121302293/210194921-d9a2c48e-cfbd-48b5-a125-6fdf4575a9f9.png)
+![13a](https://user-images.githubusercontent.com/121302293/210194925-76002714-c895-4d5b-a71d-53272a091285.png)
+![13b](https://user-images.githubusercontent.com/121302293/210194928-65ab4532-5137-4ffe-90cd-86b55d77137b.png)
 * Remove Special Characters
 ![14](https://user-images.githubusercontent.com/121302293/210194089-c04f673d-7833-43e6-b5ca-44686d7d2342.png)
 * Remove Stopwords
