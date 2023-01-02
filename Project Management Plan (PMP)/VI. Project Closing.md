@@ -12,10 +12,10 @@
 | The purpose of LAE IT Company's false news detection system was to establish an Artificial Intelligence (AI) system capable of detecting the veracity of news items. Apart from that, we developed this system to identify "Fake" news from "Real" news. |
 | **2.0 PROJECT SCOPE** |
 | To attain the highest feasible levels of accuracy in detecting fraudulent or misleading news. |
-| **3.0 PROJECT RESULT'S SUMMARY |
-| |
-| **4.0 GANTT CHART** |
-| |
+| **3.0 PROJECT RESULT'S SUMMARY** |
+| Fake News Detection System able to detect the "fake" news with the accuracy of 98%. |
+| **4.0 SCHEDULE** |
+| Throughout the project's progress, the actual timetable is identical to the Gantt chart schedule we created at the outset of the planning phase.  |
 | **5.0 BUDGET** |
 | |
 
