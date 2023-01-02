@@ -43,7 +43,7 @@ Before analysing the data, there several preprocessing steps need to be done.
 ![12](https://user-images.githubusercontent.com/121302293/210194045-2f5237ff-3e6c-4369-9bd1-bd510d37c57f.png)
    Explanation for using some symbols in above regex expression:<br><br>
    | **Symbols** | **Description** |
-   |:-------:|:-------------:|
+   |:-------:|-------------|
    | \1 | Is equivalent to re.search(...). group(1). It Refers to first capturing group. \1 matches the exact same text that was matched by the first capturing group.|
    | {1,} | It means we are matching for repeatation that occurs more than one times.|
    | DOTALL | It matches newline character as well unlike dot operator which matches everything in the given text except newline character. |
