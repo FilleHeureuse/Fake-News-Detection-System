@@ -44,7 +44,7 @@ Before analysing the data, there several preprocessing steps need to be done.
 * Expand Contraction Words
 ![13](https://user-images.githubusercontent.com/121302293/210194064-3cc9e25d-d31e-47e6-b883-933719fffede.png)
 ![13a](https://user-images.githubusercontent.com/121302293/210194069-440dc9d5-447f-435b-a70e-01fa6e823884.png)
-![13b](https://user-images.githubusercontent.com/121302293/210194077-544b48f8-6b3d-4254-9d11-4e9fb1fc3959.png)
+![13b](https://user-images.githubusercontent.com/121302293/210194298-fe2203f4-040d-421c-9f30-4d0025c3136b.png)
 * Remove Special Characters
 ![14](https://user-images.githubusercontent.com/121302293/210194089-c04f673d-7833-43e6-b5ca-44686d7d2342.png)
 * Remove Stopwords
