@@ -25,7 +25,7 @@ This folder includes one Python script and one csv file:<br>
 
 1. **Text Pre-processing with stopwords.ipynb** <br><br>
 *Libraries and Packages Required:* <br>
-![requirements](https://user-images.githubusercontent.com/121302293/210123593-8c25e0da-a828-4858-83db-58ec1813fe78.png)<br><br>
+
 Before analysing the data, there several preprocessing steps need to be done.
 * Remove Emojis 
 ![6](https://user-images.githubusercontent.com/121302293/210193860-2b20f148-db92-4880-8f24-f6f7ef59ca2a.png)
@@ -51,7 +51,7 @@ Before analysing the data, there several preprocessing steps need to be done.
    | r'\1\1' | It limits all the repeatation to two characters. |
    | r'\1' | Limits all the repeatation to only one character. |
    | {2,} | It means to match for repeatation that occurs more than two times. |
-* Expand Contraction Words <br>
+* Expand Contraction Words<br><br>
 ![13](https://user-images.githubusercontent.com/121302293/210194921-d9a2c48e-cfbd-48b5-a125-6fdf4575a9f9.png)
 ![13a](https://user-images.githubusercontent.com/121302293/210194925-76002714-c895-4d5b-a71d-53272a091285.png)
 ![13b](https://user-images.githubusercontent.com/121302293/210194981-f3b0fb02-7d71-49a8-95c5-db21c7d81f35.png)
@@ -62,7 +62,7 @@ Before analysing the data, there several preprocessing steps need to be done.
    | ,.?! | These are some frequent punctuations that occurs a lot and needed to preserved as to    understand the context of text. |
    | : | This one is also frequent as per the Dataset. It is important to keep bcz it is giving    sense whenever there is a occurrence of time like: 9:05 p.m. |
    | % | This one is also frequently used in many articles and telling more precisely about the    data, facts & figures. |
-   | $ | This one is used in many articles where prices are considered. So, omitting this symbol    will not give much sense about those prices that left as just some numbers only. |
+   | $ | This one is used in many articles where prices are considered. So, omitting this symbol    will not give much sense about those prices that left as just some     numbers only. |
 * Remove Stopwords
 ![15](https://user-images.githubusercontent.com/121302293/210194099-6d0e2238-0dbe-4982-a2a8-366fdceeaa62.png)
 * Correct Mis-Spelled Words in Text
@@ -72,10 +72,15 @@ Before analysing the data, there several preprocessing steps need to be done.
 After we defined these *Data Normalization* techniques, we combine them into a single function.
 ![18](https://user-images.githubusercontent.com/121302293/210194152-0b3cafc6-3895-4224-bc98-716938830129.png)
 2. **Cleaned_Data.csv**
-
+This csv file contains 7754 data and is saved after the data is done preprocessing. This data will be used for data analysis.<br><br>
+![image](https://user-images.githubusercontent.com/121302293/210196012-a7e08b8a-32b2-4587-a6b6-0f70fcad73b2.png)
 #### 3. Data Visualization
 This folder includes  onr Python script **"Visualization_with_Stopwords.ipynb"**. <br>
 The primary purpose of this Python script is to explore the dataset's data analysis. This data analysis will provide information regarding the number of columns that contain valuable features, the significance of each feature concerning the problem statement you wish to solve, the distribution of the data per label, and the identification of frequent word counters in both instances labelled "Fake News" and "Real News."
+**Word Cloud: Fake News**
+![image](https://user-images.githubusercontent.com/121302293/210195634-49dd0b6c-b615-49e5-a849-ccc2b62f1be2.png)
+**Word Cloud: Real News**
+![image](https://user-images.githubusercontent.com/121302293/210195650-620c4bdc-fe14-4845-8fef-1746feca0548.png)
 #### 4. ML Pipeline & Deployment
 This folder includes two Python script, one pkl file and txt file:
 1. Fake_News_Det.py<br> 
@@ -88,6 +93,7 @@ This script consists of two sections for development purpose:<br>
 The final best model that was selected for the production in the deployment stage. 
 4. Requirements.txt<br>
 The list of all the required libraries for the project.
+![requirements](https://user-images.githubusercontent.com/121302293/210123593-8c25e0da-a828-4858-83db-58ec1813fe78.png)
 ### Result <br>
 1. Running the **"Fake_News_Det.py"**. A interactive dashboard will appear like follows:
 ![Fake_News_Detector](https://user-images.githubusercontent.com/121302293/210138580-2aa39285-455c-4b69-8f8a-a688eb45b27f.png) <br><br>
