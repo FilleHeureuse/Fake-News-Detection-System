@@ -10,8 +10,8 @@
 ### Description: File, Coding and Implementation
 #### 1. Dataset  
 This folder contains dataset named News.csv. This project's dataset was obtained via the Kaggle platform at https://www.kaggle.com/techykajal/fakereal-news. This dataset has six attributes, with News Headline being the most crucial for classifying news as FALSE or TRUE.<br><br>
-|   **Attributes**     | **Responsibilities** |
-|:---------:|------|
+| **Attributes** | **Responsibilities** |
+|:-------:|------|
 | News Headline | Include data requiring analysis. |
 | Link Of News | The URL of the news headline given in the first column. |
 | Source | This column lists the names of the individuals who posted the news on Facebook,  Instagram, Twitter, or any other social media platform. |
@@ -23,18 +23,16 @@ Preprocessing data is an important step for data analysis.
 <ul><li>It improves accuracy and reliability. It can improve the accuracy and quality of a dataset by removing inconsistent or missing data values due to human or computer error.</li><li>It makes data consistent. In the process of collecting data, duplicates are possible. Discarding them during preprocessing is an effective way to ensure that the <data values for analysis are consistent, allowing the results to be as accurate as possible.</li><li>The algorithm becomes easier to read as a result. Preprocessing data enhances its quality and makes it easier for machine learning algorithms to read, use, and interpret it.</li></ul>
 This folder includes one Python script and one csv file:<br>
 
-1. Text Pre-processing with stopwords.ipynb <br><br>
+1. **Text Pre-processing with stopwords.ipynb** <br><br>
 *Libraries and Packages Required:* <br>
 ![requirements](https://user-images.githubusercontent.com/121302293/210123593-8c25e0da-a828-4858-83db-58ec1813fe78.png)<br><br>
-Before we begin the continuous coding, we must import all necessary libraries. <br>
-![1](https://user-images.githubusercontent.com/121302293/210150398-8b4fc9b8-18f7-4d2c-a31d-ae09c748adda.png)<br><br>
-The code below is created to read the dataset and print its information.<br>
-![2](https://user-images.githubusercontent.com/121302293/210150378-47d86cac-0152-4c35-a634-b7e4be57089f.png)<br><br>
-This command displays the non-null values of attributes inside the dataset. <br>
-![3](https://user-images.githubusercontent.com/121302293/210150423-106b3f1b-943c-42c6-9f22-078810ade735.png)<br><br>
+Before analysing the data, there several steps need to be done.
+<ul><li>Remove Emojis ![6](https://user-images.githubusercontent.com/121302293/210193860-2b20f148-db92-4880-8f24-f6f7ef59ca2a.png)</li></ul>
 
 
-2. Cleaned_Data.csv
+
+2. **Cleaned_Data.csv**
+
 #### 3. Data Visualization
 This folder includes  onr Python script **"Visualization_with_Stopwords.ipynb"**. <br>
 The primary purpose of this Python script is to explore the dataset's data analysis. This data analysis will provide information regarding the number of columns that contain valuable features, the significance of each feature concerning the problem statement you wish to solve, the distribution of the data per label, and the identification of frequent word counters in both instances labelled "Fake News" and "Real News."
