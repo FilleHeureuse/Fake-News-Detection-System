@@ -9,14 +9,16 @@
 ![image](https://user-images.githubusercontent.com/121302293/210193305-fb737e10-c070-49f5-9174-3b758c3a8be4.png)
 ### Description: File, Coding and Implementation
 #### 1. Dataset  
-This folder contains dataset named News.csv. This project's dataset was obtained via the Kaggle platform at https://www.kaggle.com/techykajal/fakereal-news. This dataset has six attributes, with News Headline being the most crucial for classifying news as FALSE or TRUE.<br>
-• News Headline: includes data requiring analysis. <br>
-• Link Of News: the URL of the news headline given in the first column.<br>
-• Source: This column lists the names of the individuals who posted the news on Facebook,  Instagram, Twitter, or any other social media platform.<br>
-• Stated On: The date on which the authors published the news on various social media channels.<br>
-• Date: This column indicates the date on which the PolitiFact fact-checking team investigated the information to determine whether it was FALSE or TRUE.<br>
-•Label: This column has five class labels: True, Mostly-True, Half-True, Barely-True, False, and Pants on Fire.
+This folder contains dataset named News.csv. This project's dataset was obtained via the Kaggle platform at https://www.kaggle.com/techykajal/fakereal-news. This dataset has six attributes, with News Headline being the most crucial for classifying news as FALSE or TRUE.<br><br>
+• **News Headline:** includes data requiring analysis. <br>
+• **Link Of News:** the URL of the news headline given in the first column.<br>
+• **Source:** This column lists the names of the individuals who posted the news on Facebook,  Instagram, Twitter, or any other social media platform.<br>
+• **Stated On:** The date on which the authors published the news on various social media channels.<br>
+• **Date:** This column indicates the date on which the PolitiFact fact-checking team investigated the information to determine whether it was FALSE or TRUE.<br>
+• **Label:** This column has five class labels: True, Mostly-True, Half-True, Barely-True, False, and Pants on Fire.
 #### 2. Data Preprocessing
+Preprocessing data is an important step for data analysis. 
+<ul><li>It improves accuracy and reliability. It can improve the accuracy and quality of a dataset by removing inconsistent or missing data values due to human or computer error.</li><li>It makes data consistent. In the process of collecting data, duplicates are possible. Discarding them during preprocessing is an effective way to ensure that the <data values for analysis are consistent, allowing the results to be as accurate as possible.</li><li>The algorithm becomes easier to read as a result. Preprocessing data enhances its quality and makes it easier for machine learning algorithms to read, use, and interpret it.</li></ul>
 This folder includes one Python script and one csv file:<br>
 1. Text Pre-processing with stopwords.ipynb <br><br>
 *Libraries and Packages Required:* <br>
