@@ -51,12 +51,18 @@ Before analysing the data, there several preprocessing steps need to be done.
    | r'\1\1' | It limits all the repeatation to two characters. |
    | r'\1' | Limits all the repeatation to only one character. |
    | {2,} | It means to match for repeatation that occurs more than two times. |
-* Expand Contraction Words
+* Expand Contraction Words <br>
 ![13](https://user-images.githubusercontent.com/121302293/210194921-d9a2c48e-cfbd-48b5-a125-6fdf4575a9f9.png)
 ![13a](https://user-images.githubusercontent.com/121302293/210194925-76002714-c895-4d5b-a71d-53272a091285.png)
-![13b](https://user-images.githubusercontent.com/121302293/210194928-65ab4532-5137-4ffe-90cd-86b55d77137b.png)
+![13b](https://user-images.githubusercontent.com/121302293/210194981-f3b0fb02-7d71-49a8-95c5-db21c7d81f35.png)
 * Remove Special Characters
 ![14](https://user-images.githubusercontent.com/121302293/210194089-c04f673d-7833-43e6-b5ca-44686d7d2342.png)
+   | **Punctuation** | **Description** |
+   |:-------:|--------|
+   | ,.?! | These are some frequent punctuations that occurs a lot and needed to preserved as to    understand the context of text. |
+   | : | This one is also frequent as per the Dataset. It is important to keep bcz it is giving    sense whenever there is a occurrence of time like: 9:05 p.m. |
+   | % | This one is also frequently used in many articles and telling more precisely about the    data, facts & figures. |
+   | $ | This one is used in many articles where prices are considered. So, omitting this symbol    will not give much sense about those prices that left as just some numbers only. |
 * Remove Stopwords
 ![15](https://user-images.githubusercontent.com/121302293/210194099-6d0e2238-0dbe-4982-a2a8-366fdceeaa62.png)
 * Correct Mis-Spelled Words in Text
