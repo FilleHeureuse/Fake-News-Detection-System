@@ -19,7 +19,7 @@
 | **5.0 BUDGET** |
 | |
 | **6.0 TRANSITION PLAN** |
-| I. Timing maintenance system<br> II. Handling errors and updates of the system. |
+| I. Timing maintenance system<br> II. Handling errors and update of the system. |
 ### D. Close Contract
 ![image](https://user-images.githubusercontent.com/121302293/210256943-91c6cf1f-241f-4740-8050-cec7d9c3540b.png)
 &nbsp;<br>
