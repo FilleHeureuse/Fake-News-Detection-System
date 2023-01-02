@@ -7,7 +7,7 @@
 ![LESSONS LEARNED REPORT_00002](https://user-images.githubusercontent.com/121302293/210247209-bc235cce-2515-4aa4-bb7f-a7b9a3e998d2.png)
 #### C. Final Report
 #### D. Close Contract
-
+![image](https://user-images.githubusercontent.com/121302293/210256875-8d5cd67d-78d6-45e4-a909-a120bd802439.png)
 &nbsp;<br>
 &nbsp;<br>
 &nbsp;<br>
