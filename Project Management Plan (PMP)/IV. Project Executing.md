@@ -91,7 +91,7 @@ After we defined these *Data Normalization* techniques, we combine them into a s
 This csv file contains 7754 data and is saved after the data is done preprocessing. This data will be used for data analysis.<br><br>
 ![image](https://user-images.githubusercontent.com/121302293/210196012-a7e08b8a-32b2-4587-a6b6-0f70fcad73b2.png)
 #### 3. Data Visualization
-This folder includes  onr Python script **"Visualization_with_Stopwords.ipynb"**. <br>
+This folder includes  one Python script **"Visualization_with_Stopwords.ipynb"**. <br>
 The primary purpose of this Python script is to explore the dataset's data analysis. This data analysis will provide information regarding the number of columns that contain valuable features, the significance of each feature concerning the problem statement you wish to solve, the distribution of the data per label, and the identification of frequent word counters in both instances labelled "Fake News" and "Real News."<br><br>
 **Word Cloud: Fake News**<br>
 ![image](https://user-images.githubusercontent.com/121302293/210195634-49dd0b6c-b615-49e5-a849-ccc2b62f1be2.png)<br><br>
