@@ -36,8 +36,11 @@ Establishing the boundaries of a project's purview is of the utmost significance
 ![image](https://user-images.githubusercontent.com/121302293/211192803-00a3546c-e3b7-4e63-891b-3ee35397d68d.png)
 ![image](https://user-images.githubusercontent.com/121302293/211192829-2ed66881-fdc3-426f-91b6-f8948495be81.png)
 ### Responsibility Assignment Matrices (RAM)
-![image](https://user-images.githubusercontent.com/121302293/211193037-7d779064-436d-4d34-897a-384e2548c2db.png)
-
+|Control Element|What is likely to go wrong?|How will we know?|What will we do about it?|
+|-----|-----|-----|-----|
+|Quality|The quality result is very different from what was designed.|During the unit testing phase, the quality issue will be determined.|Assign quality managers to monitor and control the quality of the Fake News Detection System and evaluate the final output|
+|Cost|The actual cost exceeds the estimated cost.|The monthly bills show an unexpected extra charge.|Assign financial analyst to manage and track the Fake News Detection System project budgets and costs.|
+|Time|The project was unable to meet the milestones specified in the Gantt Chart.|There are many problems and member got stuck in the project.|Other members need to help each other to avoid stuck on Fake News Detection System.|
 &nbsp;<br>
 &nbsp;<br>
 &nbsp;<br>
