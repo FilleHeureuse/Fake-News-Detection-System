@@ -25,4 +25,4 @@
 &nbsp;<br>
 &nbsp;<br>
 &nbsp;<br>
-:arrow_right::[Project Presentation](https://github.com/FilleHeureuse/Fake-News-Detection-System/blob/main/Project%20Management%20Plan%20(PMP)/VII.%20Project%20Presentation.md)
+↩️[README](https://github.com/FilleHeureuse/Fake-News-Detection-System/blob/main/README.md)
