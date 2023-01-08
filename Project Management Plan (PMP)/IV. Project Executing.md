@@ -61,12 +61,12 @@ Before analysing the data, there several preprocessing steps need to be done.
    | **Symbols** | **Description** |
    |:-------:|-------------|
    | \1 | Is equivalent to re.search(...). group(1). It Refers to first capturing group. \1 matches the exact same text that was matched by the first capturing group.|
-   | {1,} | It means we are matching for repeatation that occurs more than one times.|
+   | {1,} | It means we are matching for repetation that occurs more than one times.|
    | DOTALL | It matches newline character as well unlike dot operator which matches everything in the given text except newline character. |
    | sub() | This function is used to replace occurrences of a particular sub-string with another sub-string. This function takes as input the following: The sub-          string to replace. The sub-string to replace with. |
-   | r'\1\1' | It limits all the repeatation to two characters. |
-   | r'\1' | Limits all the repeatation to only one character. |
-   | {2,} | It means to match for repeatation that occurs more than two times. |
+   | r'\1\1' | It limits all the repetation to two characters. |
+   | r'\1' | Limits all the repetation to only one character. |
+   | {2,} | It means to match for repetation that occurs more than two times. |
 * Expand Contraction Words<br><br>
 ![13](https://user-images.githubusercontent.com/121302293/210194921-d9a2c48e-cfbd-48b5-a125-6fdf4575a9f9.png)
 ![13a](https://user-images.githubusercontent.com/121302293/210194925-76002714-c895-4d5b-a71d-53272a091285.png)
