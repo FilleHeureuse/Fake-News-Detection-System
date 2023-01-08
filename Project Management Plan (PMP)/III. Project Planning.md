@@ -45,4 +45,4 @@ Establishing the boundaries of a project's purview is of the utmost significance
 &nbsp;<br>
 &nbsp;<br>
 &nbsp;<br>
-:arrow_right:: [Project Execution](https://github.com/FilleHeureuse/Fake-News-Detection-System/blob/main/Project%20Management%20Plan%20(PMP)/IV.%20Project%20Executing.md)
+:arrow_right:: [Project Executing](https://github.com/FilleHeureuse/Fake-News-Detection-System/blob/main/Project%20Management%20Plan%20(PMP)/IV.%20Project%20Executing.md)
