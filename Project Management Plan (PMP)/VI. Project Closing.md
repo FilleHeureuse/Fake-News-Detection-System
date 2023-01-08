@@ -17,7 +17,7 @@
 | **4.0 SCHEDULE** |
 | Throughout the project's progress, the actual timetable is identical to the Gantt chart schedule we created at the outset of the planning phase.<br><br> ![Gantt Chart_00001](https://user-images.githubusercontent.com/121302293/210261711-a7eebfa7-b291-40ae-9b1c-0cfcbad439a8.png) ![Gantt Chart_00002](https://user-images.githubusercontent.com/121302293/210261732-1197d9f4-2894-4c4a-b02b-ab8c0adcfdc2.png) ![Gantt Chart_00003](https://user-images.githubusercontent.com/121302293/210261747-b229cdfe-21d5-4d84-b7e7-060ea2e00942.png) |
 | **5.0 BUDGET** |
-| |
+|![image](https://user-images.githubusercontent.com/121302293/211194067-55135f8e-2ce1-4459-9e60-c18543a1f007.png)|
 | **6.0 TRANSITION PLAN** |
 | I. Timing maintenance system<br> II. Handling errors and update of the system. |
 ### D. Close Contract
