@@ -29,10 +29,10 @@ Establishing the boundaries of a project's purview is of the utmost significance
 | Project Scheduler | Liew Sze Wen | **Responsibilities includes:**<ul><li>Track progress against the project schedule.</li><li>Merge and detect dependencies and risks between the project schedule.</li><li>Track progress against the prime contractor's and counties' timetables.</li></ul>|
 | Quality Manager | Adella Java Dirgantari | **Responsibilities includes:**<ul><li>Manage and assure the quality of the Fake News Detection System and the prime contractor</li><li>Exam the conformance of process and product activities to standards and plans.</li><li>Give insight into the project and contractor's business practises.</li><li>Evaluate the final output by reviewing the system's overall quality.</li><li>Conduct a report (quality standard issues) to upper management.</li></ul>|
 ### Responsibility Assignment Matrices (RAM)
-R – Responsible (The person(s) completing the task)
-A – Accountable (The team member coordinating the actions, making decisions, and delegating to those responsible for the task)
-C – Consulted (The person(s) who will be communicated with regarding decisions and tasks)
-I – Informed (The person(s) who will be updated during the project and upon completion)
+R – Responsible (The person(s) completing the task)<br>
+A – Accountable (The team member coordinating the actions, making decisions, and delegating to those responsible for the task)<br>
+C – Consulted (The person(s) who will be communicated with regarding decisions and tasks)<br>
+I – Informed (The person(s) who will be updated during the project and upon completion)<br>
 ![image](https://user-images.githubusercontent.com/121302293/211192803-00a3546c-e3b7-4e63-891b-3ee35397d68d.png)
 ![image](https://user-images.githubusercontent.com/121302293/211192829-2ed66881-fdc3-426f-91b6-f8948495be81.png)
 &nbsp;<br>
