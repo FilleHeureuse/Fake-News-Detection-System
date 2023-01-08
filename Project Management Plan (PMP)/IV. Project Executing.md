@@ -7,12 +7,12 @@
 |:-------|:------:|
 |Project Manager|RM5000|
 |Project Team Members|	|
-|     1.	Procurement Manager|RM3500|
-|     2.	Risk Manager|RM3500|
-|     3.	Administrative Manager|RM3500|
-|     4.	Financial Analyst	|RM2500|
-|     5.	Project Scheduler	|RM2500|
-|     6.	Quality Manager|RM3500|
+| 1.	Procurement Manager|RM3500|
+| 2.	Risk Manager|RM3500|
+| 3.	Administrative Manager|RM3500|
+| 4.	Financial Analyst	|RM2500|
+| 5.	Project Scheduler	|RM2500|
+| 6.	Quality Manager|RM3500|
 |Installation Software|RM5500|
 |Licensed Software|RM4000|
 |Testing	|RM13000|
