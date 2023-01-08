@@ -35,6 +35,9 @@ Establishing the boundaries of a project's purview is of the utmost significance
 **I** – Informed (The person(s) who will be updated during the project and upon completion)<br><br>
 ![image](https://user-images.githubusercontent.com/121302293/211192803-00a3546c-e3b7-4e63-891b-3ee35397d68d.png)
 ![image](https://user-images.githubusercontent.com/121302293/211192829-2ed66881-fdc3-426f-91b6-f8948495be81.png)
+### Responsibility Assignment Matrices (RAM)
+![image](https://user-images.githubusercontent.com/121302293/211193037-7d779064-436d-4d34-897a-384e2548c2db.png)
+
 &nbsp;<br>
 &nbsp;<br>
 &nbsp;<br>
