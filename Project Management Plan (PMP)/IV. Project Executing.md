@@ -2,6 +2,23 @@
 ### Software Requirement
 - Python Language
 - HyperText Markup Language (HTML)
+### Task and Estimated Cost
+| **Task** | **Estimated Cost** |
+|:-------|:------:|
+|Project Manager|RM5000|
+|Project Team Members|	|
+|1.	Procurement Manager|RM3500|
+|2.	Risk Manager|RM3500|
+|3.	Administrative Manager|RM3500|
+|4.	Financial Analyst	|RM2500|
+|5.	Project Scheduler	|RM2500|
+|6.	Quality Manager|RM3500|
+|Installation Software|RM5500|
+|Licensed Software|RM4000|
+|Testing	|RM13000|
+|System maintenance|RM10000|
+| | |
+|**Total Project**|	RM56500|
 ### Milestone Chart
 ![image](https://user-images.githubusercontent.com/121302293/210359830-75d378b4-ae73-4e81-93ea-fa458a188f3b.png)
 ![image](https://user-images.githubusercontent.com/121302293/210359846-1f4c3d42-c817-4f8e-9306-499c53928a8a.png)
