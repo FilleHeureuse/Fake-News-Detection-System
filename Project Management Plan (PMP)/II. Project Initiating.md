@@ -3,7 +3,7 @@ Several tasks were stated in the initiation procedure: defining the project's go
 
 ### 1. Project Goal
 To attain the highest feasible levels of accuracy in detecting fraudulent or misleading news.
-### 2. Project Skateholders
+### 2. Project Stakeholders
 | Types                                  | Name                                |
 | -------------------------------------- | ----------------------------------- |
 | A. Customer                            | ABC News Company                         | 
