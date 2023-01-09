@@ -25,4 +25,4 @@
 &nbsp;<br>
 &nbsp;<br>
 &nbsp;<br>
-↩️[README](https://github.com/FilleHeureuse/Fake-News-Detection-System/blob/main/README.md)
+➡️[Project Report](https://github.com/FilleHeureuse/Fake-News-Detection-System/blob/main/Project%20Management%20Plan%20(PMP)/VI.%20Project%20Report.pdf)
