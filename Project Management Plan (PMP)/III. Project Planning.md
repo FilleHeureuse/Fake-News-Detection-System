@@ -35,7 +35,7 @@ Establishing the boundaries of a project's purview is of the utmost significance
 **I** – Informed (The person(s) who will be updated during the project and upon completion)<br><br>
 ![image](https://user-images.githubusercontent.com/121302293/211192803-00a3546c-e3b7-4e63-891b-3ee35397d68d.png)
 ![image](https://user-images.githubusercontent.com/121302293/211192829-2ed66881-fdc3-426f-91b6-f8948495be81.png)
-### Responsibility Assignment Matrices (RAM)
+### Risk Identification Chart (Quality, Cost, Time)
 |Control Element|What is likely to go wrong?|How will we know?|What will we do about it?|
 |:-----|:-----|:-----|:-----|
 |Quality|The quality result is very different from what was designed.|During the unit testing phase, the quality issue will be determined.|Assign quality managers to monitor and control the quality of the Fake News Detection System and evaluate the final output|
